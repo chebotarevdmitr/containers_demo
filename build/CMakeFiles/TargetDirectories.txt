@@ -1,0 +1,3 @@
+/home/dmitriy/Documents/my_basic_course/dz/containers_demo/build/CMakeFiles/ContainersDemo.dir
+/home/dmitriy/Documents/my_basic_course/dz/containers_demo/build/CMakeFiles/edit_cache.dir
+/home/dmitriy/Documents/my_basic_course/dz/containers_demo/build/CMakeFiles/rebuild_cache.dir
