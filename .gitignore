@@ -1,0 +1,10 @@
+# Игнорировать папку сборки
+build/
+
+# Игнорировать временные файлы CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.ninja
+*.user
